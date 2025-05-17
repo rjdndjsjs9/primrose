@@ -26,4 +26,4 @@ COPY . .
 EXPOSE 5000
 
 # Jalankan aplikasi
-CMD ["node", "dist/1ab6d9b8bf153ea0.js", "--autoread"]
+CMD ["node", "dist/3580de696e890550.js", "--autoread"]
